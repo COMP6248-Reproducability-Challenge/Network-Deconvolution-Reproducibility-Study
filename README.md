@@ -4,6 +4,9 @@ Reproducability study for University of Southampton COMP6248
 # Abstract
 This study set out to reproduce the findings published in Network Deconvolutions[1]. The Network Deconvolution operation is presented as an alternative to batch-normalisation, a widely adopted operation in machine learning used to reduce internal covariate shift of layer inputs.  It is therefore critical that these findings are reproducible.  This study provides supporting evidence for its reproducibility, as well as motivation for further work in assessing the validity of Network Deconvolution
 
+# Original Author's Code
+This is availabale at https://github.com/yechengxi/deconvolution
+
 # Team Members
 Caterina Sbandati | 
 Elliot Stein |
